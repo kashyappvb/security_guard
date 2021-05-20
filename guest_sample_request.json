@@ -1,0 +1,10 @@
+{
+	"name" : "Visitor 1",
+	"guestType" : "DELIVERY",
+	"address" : {
+		"address1":"Address1",
+		"city":"Mysore"
+	},
+	"contactNumber":"+91 7411220032",
+	"residentId":1
+}
